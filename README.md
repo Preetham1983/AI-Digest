@@ -1,6 +1,6 @@
 # AI-Powered Intelligence Digest System
 
-A local, privacy-first AI intelligence platform that aggregates content from Hacker News and RSS feeds, evaluates it using a local LLM (Llama 3.1), and delivers a personalized digest via Email.
+A local, privacy-first AI intelligence platform that aggregates content from Hacker News and RSS feeds, evaluates it using a local LLM (Llama 3.1), and delivers a personalized digest via Email And Telegram.
 
 ## Prerequisites
 
